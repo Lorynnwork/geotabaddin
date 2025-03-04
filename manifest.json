@@ -6,5 +6,6 @@
     "readDevice",
     "writeDevice"
   ],
-  "supportEmail": "lorynn.fishkin@holman.com"
+  "supportEmail": "lorynn.fishkin@holman.com",
+  "script": "removeGroups.js"
 }
