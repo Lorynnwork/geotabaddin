@@ -6,12 +6,5 @@
     "readDevice",
     "writeDevice"
   ],
-  "supportEmail": "lorynn.fishkin@holman.com",
-  "pages": [
-    {
-      "path": "removeGroups",
-      "name": "Remove Groups",
-      "menu": "Tools"
-    }
-  ]
+  "supportEmail": "lorynn.fishkin@holman.com"
 }
