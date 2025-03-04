@@ -1,0 +1,17 @@
+{
+  "name": "Bulk Group Remover",
+  "version": "1.0",
+  "description": "Removes specified groups from devices.",
+  "permissions": [
+    "readDevice",
+    "writeDevice"
+  ],
+  "supportEmail": "lorynn.fishkin@holman.com",
+  "pages": [
+    {
+      "path": "removeGroups",
+      "name": "Remove Groups",
+      "menu": "Tools"
+    }
+  ]
+}
